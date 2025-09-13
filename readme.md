@@ -104,7 +104,7 @@ cd Dress-Mate
 ### 3. Frontend Setup
 
 1.  **No installation is needed** for the frontend.
-2.  Open the **`login.html`** file in your browser to begin the application. It's recommended to use a live server extension in your code editor (like "Live Server" in VS Code) for the best experience.
+2.  Open the **`Client/auth/login.html`** file in your browser to begin the application. It's recommended to use a live server extension in your code editor (like "Live Server" in VS Code) for the best experience.
 
 ---
 
