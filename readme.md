@@ -90,13 +90,13 @@ cd Dress-Mate
 
     ```bash
     # Command for Tops
-    mongoimport --db veda --collection tops --file server/veda.tops.json --jsonArray --drop
+    mongoimport --db veda --collection tops --file data/veda.tops.json --jsonArray --drop
 
     # Command for Bottoms
-    mongoimport --db veda --collection bottoms --file server/veda.bottoms.json --jsonArray --drop
+    mongoimport --db veda --collection bottoms --file data/veda.bottoms.json --jsonArray --drop
 
     # Command for Outerwears
-    mongoimport --db veda --collection outerwears --file server/veda.outerwears.json --jsonArray --drop
+    mongoimport --db veda --collection outerwears --file data/veda.outerwears.json --jsonArray --drop
     ```
     *(`--jsonArray` tells mongoimport to read an array of objects, and `--drop` clears the collection before importing).*
 
