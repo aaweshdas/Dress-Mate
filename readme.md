@@ -31,7 +31,11 @@ Dress Mate is a full-stack web application that provides personalized outfit sug
 Follow these steps to set up and run the project locally, based on the following structure:
 
 ### 1. Clone the Repository
-First, clone the project repository from GitHub to your local machine.
+First, change directory to Desktop
+```Bash
+cd Desktop
+```
+then , clone the project repository from GitHub to your local machine.
 ```bash
 git clone https://github.com/aaweshdas/Dress-Mate.git
 ```
