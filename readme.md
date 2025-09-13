@@ -43,7 +43,7 @@ cd Dress-Mate
 
 ### Prerequisites
 
-- **Node.js** (v14 or later)
+- **Node.js** (v14 or later) and **NPM** (v10 or later)
 - **MongoDB Community Server** & **MongoDB Shell (`mongosh`)** installed and running.
 - An **API Key** from [OpenWeatherMap](https://openweathermap.org/api) with the **One Call API 3.0** plan subscribed (the free tier is sufficient).
 
