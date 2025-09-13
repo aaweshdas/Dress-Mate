@@ -64,13 +64,13 @@ cd Dress-Mate
 
     ```
     # Your MongoDB connection string (update 'veda' if needed)
-    MONGO_URI="mongodb://localhost:27017/veda"
+    MONGO_URI="mongodb+srv://subhankarDas:Subhankar18yrs%23@cluster0.vjgjl.mongodb.net/test"
 
     # A long, random, and secret string for JWT
     JWT_SECRET="your-super-secret-key-change-this"
 
     # Your API key from OpenWeatherMap
-    OPENWEATHER_API_KEY="paste_your_api_key_here"
+    OPENWEATHER_API_KEY="paste_your_api_key_here"    or use this    423385e62f1bb4b32a432c487a3db870
 
     PORT=3500
     ```
@@ -82,31 +82,19 @@ cd Dress-Mate
     > ```
     > Copy the output and paste it as the value for `JWT_SECRET` in `.env` file.
 
-4.  **Seed the database with clothing data:**
-     This is a critical step.
-    - Place your three JSON files (`veda.tops.json`, `veda.bottoms.json`, `veda.outerwears.json`) inside the `server` directory.
-    - Open a **new terminal** (do not close your server terminal if it's running).
-    - Run the following three commands one by one. These will clear the existing collections and import the new data.
 
-    ```bash
-    # Command for Tops
-    mongoimport --db veda --collection tops --file data/veda.tops.json --jsonArray --drop
-
-    # Command for Bottoms
-    mongoimport --db veda --collection bottoms --file data/veda.bottoms.json --jsonArray --drop
-
-    # Command for Outerwears
-    mongoimport --db veda --collection outerwears --file data/veda.outerwears.json --jsonArray --drop
-    ```
-    *(`--jsonArray` tells mongoimport to read an array of objects, and `--drop` clears the collection before importing).*
-
-5.  **Start the backend server:**
+4.  **Start the backend server:**
     While still inside the `server` directory, run:
     ```bash
     node server.js
     ```
+    or
+    ```bash
+    npm run dev
+    ```
+    
     You should see confirmation messages in your terminal:
-    `Server running on port 5000`
+    `Server running on port 3500`
     `MongoDB Connected`
 
 ### 3. Frontend Setup
