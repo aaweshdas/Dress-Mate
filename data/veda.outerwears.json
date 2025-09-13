@@ -1,0 +1,808 @@
+[{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec552"
+  },
+  "name": "Lightweight Bomber Jacket",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 18,
+  "temp_max": 25,
+  "weight": "light",
+  "fabric": "nylon",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmCnnafNmztGqhWlJ7fBtdVS7ms7pQ9atnwziKjgc6y4W9Qm3zgbUxa_b40UpAduwGkjLX6Y9VrlZQTa-WI2fiUW5hEseTLUg1_CDCXTZG4c3eizbeDO5nsls"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec553"
+  },
+  "name": "Linen Blazer",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 20,
+  "temp_max": 28,
+  "weight": "light",
+  "fabric": "linen",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://5.imimg.com/data5/XB/KB/MY-56216605/men-sky-blue-blazer-500x500.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec554"
+  },
+  "name": "Anorak",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 15,
+  "temp_max": 22,
+  "weight": "light",
+  "fabric": "polyester",
+  "is_waterproof": true,
+  "is_windproof": true,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ULbhApA5dvPGZTjRtWxPxIlpk3lDvS8D8g&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec555"
+  },
+  "name": "Denim Jacket",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 15,
+  "temp_max": 25,
+  "weight": "medium",
+  "fabric": "denim",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYTGZJLrhQmGbI49rzp1to0OUhqV2Yx_1C7RsBiFvrbfNfLLSToNQA2KYHE6ZL9i9r0hPSVNXia8al0vaxvLz6pwAifZMBajZKAys30p1CwrC79kmgaR-_iZdqAXoogGdPSfU5QG0&usqp=CAc"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec556"
+  },
+  "name": "Zip-Up Hoodie",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 12,
+  "temp_max": 20,
+  "weight": "medium",
+  "fabric": "cotton fleece",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSPIvd4RSEi2bArbZGwU529HXe-muFypGdgs8oynh3Pi3xFsY7Y7U00CSUC-qDD3gYvng7VozbSD_rqZ8Ba3c1VDrDBPQDPkt2SHZOv9mA8eNZzzFBN026NRO56fOoHivz-QrrBHCc&usqp=CAc"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec557"
+  },
+  "name": "Quilted Vest",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 10,
+  "temp_max": 18,
+  "weight": "medium",
+  "fabric": "nylon",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRj8kXhiF4ZgLP1bJ0T6BPneze0RC3yG8-6jpUQ_mv8L7a76E3ZJlN_fkQpWdQqiMldTANShiqFzg8jiQBNeAm8VFTo3v7_pYm0D_w3ADWzGFhMSXVQthv6gLEyN7xA9kwUKwO8oEJD&usqp=CAc"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec558"
+  },
+  "name": "Wool Peacoat",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "wool",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSKdQcRYBRxGsx3948Jl9QMYsl6y9K61UaScoNYt21lCDbe3kIzucvESSUD_GLeuwht881NIlsgjFvCxi72MmPWkfBEi4vmKI-DkBY9pxOBHT-9tXKzT3OLI7GqiGGRoRpbzHgsPD1&usqp=CAc"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec559"
+  },
+  "name": "Parka",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 5,
+  "temp_max": 12,
+  "weight": "heavy",
+  "fabric": "polyester blend",
+  "is_waterproof": true,
+  "is_windproof": true,
+  "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT-Vwj49DyPVouO21kCRydXPSEvCJ3_g_4zVGu3DW2Pw_Fmz_ehPVmdrO4kqJ2FJAe-J5D6KOWiz6jGf-itAuzl4LGjUqpLwSCZ0GMwrDpe8_ZXY77yExhFb6zVCgHIQIaIGXoxPcw&usqp=CAc"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec55a"
+  },
+  "name": "Shearling Jacket",
+  "style": "casual",
+  "gender": "male",
+  "temp_min": 5,
+  "temp_max": 12,
+  "weight": "heavy",
+  "fabric": "shearling",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRn8TtSH03maM5rUsWSfyCcWPigDzFwuhE2jyRThk3z4Pcigo-kwjgNbQACcoAGz1W2c0Md3J1AyVrNX4Mxrbda5nElaXoRbP_zXd6TlqYia_8xkT7KZNnzU8j_zmYQTfSI5iqcIPs&usqp=CAc"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec55b"
+  },
+  "name": "Cropped Denim Jacket",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 18,
+  "temp_max": 25,
+  "weight": "light",
+  "fabric": "denim",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMHVdzUK0x-mzWYjAXqSGnPZ5Vn4XPds07A&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec55c"
+  },
+  "name": "Lightweight Raincoat",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 15,
+  "temp_max": 22,
+  "weight": "light",
+  "fabric": "nylon",
+  "is_waterproof": true,
+  "is_windproof": true,
+  "image_url": "data:image/jpeg;base64,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"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec55d"
+  },
+  "name": "Utility Jacket",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 16,
+  "temp_max": 24,
+  "weight": "light",
+  "fabric": "cotton canvas",
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFI1p31h_-kneqgstOXv8I_rcxzFjbB1TefA&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec55e"
+  },
+  "name": "Oversized Cardigan",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 15,
+  "temp_max": 25,
+  "weight": "medium",
+  "fabric": "wool blend",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSRDV7Q18YXUM35tqDQbnVH086G8EmFdgzRQ&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec55f"
+  },
+  "name": "Classic Trench Coat",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 12,
+  "temp_max": 20,
+  "weight": "medium",
+  "fabric": "cotton gabardine",
+  "is_waterproof": true,
+  "is_windproof": false,
+  "image_url": "data:image/jpeg;base64,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"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec560"
+  },
+  "name": "Corduroy Jacket",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 10,
+  "temp_max": 18,
+  "weight": "medium",
+  "fabric": "corduroy",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-Q5NUbeCndDzDHA1cvMFwXwMsb2mSp5Zrg&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec561"
+  },
+  "name": "Puffer Jacket",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "down",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYajM_iQOPQOc8sK-IjvddCOc3k4v3t8iavQ&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec562"
+  },
+  "name": "Wool Wrap Coat",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "wool",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "data:image/jpeg;base64,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"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec563"
+  },
+  "name": "Faux Fur Jacket",
+  "style": "casual",
+  "gender": "female",
+  "temp_min": 5,
+  "temp_max": 12,
+  "weight": "heavy",
+  "fabric": "faux fur",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapr9jmGi-F2RsjkqoMGsqKv3zT4WVM2-ykg&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec564"
+  },
+  "name": "Cotton Suit Blazer",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 20,
+  "temp_max": 28,
+  "weight": "light",
+  "fabric": "cotton",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://images-cdn.ubuy.co.in/667af8ff458f7b39796c8d5d-casual-blazer-suit-for-men-fashion-slim.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec565"
+  },
+  "name": "Unstructured Sport Coat",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 18,
+  "temp_max": 25,
+  "weight": "light",
+  "fabric": "hopsack",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://stefanobemer.com/cdn/shop/products/grey-mens-sportscoat-sv2060-01.png?v=1687956400"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec566"
+  },
+  "name": "Mac Coat",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 15,
+  "temp_max": 22,
+  "weight": "light",
+  "fabric": "cotton gabardine",
+  "is_waterproof": true,
+  "is_windproof": false,
+  "image_url": "https://dqp736wsu6w3m.cloudfront.net/s3bucket/og/images/landings/317/x2a2851-1.png"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec567"
+  },
+  "name": "Wool Suit Blazer",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 15,
+  "temp_max": 25,
+  "weight": "medium",
+  "fabric": "wool",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZR7qQx9m39YaJJczKFfwyUYWb4miFI-yB2As22e3I9teaj5NDFjJ5MZPG0-7s_G5-DA&usqp=CAU"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec568"
+  },
+  "name": "Trench Coat",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 12,
+  "temp_max": 20,
+  "weight": "medium",
+  "fabric": "gabardine",
+  "is_waterproof": true,
+  "is_windproof": false,
+  "image_url": "https://m.media-amazon.com/images/I/71yQGqNR7mL._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec569"
+  },
+  "name": "Topcoat",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 10,
+  "temp_max": 18,
+  "weight": "medium",
+  "fabric": "wool blend",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://m.media-amazon.com/images/I/81HDaLl2NNL._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec56a"
+  },
+  "name": "Wool Overcoat",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "wool",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://m.media-amazon.com/images/I/617lT2CBCJL._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec56b"
+  },
+  "name": "Double-Breasted Coat",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 5,
+  "temp_max": 12,
+  "weight": "heavy",
+  "fabric": "cashmere blend",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://image.made-in-china.com/2f0j00eBMcdrSPShbW/OEM-Business-Gentleman-Wool-MID-Length-Jacket-Double-Breasted-Men-s-Cotton-Wool-Coat.webp"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec56c"
+  },
+  "name": "Heavy Duty Parka",
+  "style": "formal",
+  "gender": "male",
+  "temp_min": 5,
+  "temp_max": 10,
+  "weight": "heavy",
+  "fabric": "tech fabric",
+  "is_waterproof": true,
+  "is_windproof": true,
+  "image_url": "https://www.lmonteinternational.com/cdn/shop/files/ARMYGREEN_1.png?v=1730470074"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec56d"
+  },
+  "name": "Lightweight Blazer",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 20,
+  "temp_max": 28,
+  "weight": "light",
+  "fabric": "linen blend",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://m.media-amazon.com/images/I/81kp0bjbaoL._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec56e"
+  },
+  "name": "Duster Coat",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 18,
+  "temp_max": 25,
+  "weight": "light",
+  "fabric": "crepe",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/2024/OCTOBER/17/hpOz3CDG_a565d82c41a64f0ba0a1e04853ac32cf.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec56f"
+  },
+  "name": "Silk Scarf/Wrap",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 22,
+  "temp_max": 30,
+  "weight": "light",
+  "fabric": "silk",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://m.media-amazon.com/images/I/81+6adJQVEL._UY1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec570"
+  },
+  "name": "Classic Blazer",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 15,
+  "temp_max": 25,
+  "weight": "medium",
+  "fabric": "wool blend",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://img105.savana.com/goods-pic/3ef2a5652a8241f4ae713629dc664025_w540_h720_q85.webp"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec571"
+  },
+  "name": "Trench Coat",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 12,
+  "temp_max": 20,
+  "weight": "medium",
+  "fabric": "gabardine",
+  "is_waterproof": true,
+  "is_windproof": false,
+  "image_url": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2024/SEPTEMBER/25/n4AaLXy2_6f7d5d0db6ed4f7a93f825b6035aefd1.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec572"
+  },
+  "name": "Cape Coat",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 10,
+  "temp_max": 18,
+  "weight": "medium",
+  "fabric": "cashmere blend",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://m.media-amazon.com/images/I/51GNRjZYdQL._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec573"
+  },
+  "name": "Wool Peacoat",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "wool",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1485996_lifestyle?$rl_4x5_pdp$"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec574"
+  },
+  "name": "Long Overcoat",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 5,
+  "temp_max": 12,
+  "weight": "heavy",
+  "fabric": "cashmere",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://images-cdn.ubuy.ae/638de8d9c70a2f0b5b4a2eca-women-39-s-winter-coats-woolen-blend.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec575"
+  },
+  "name": "Tweed Jacket",
+  "style": "formal",
+  "gender": "female",
+  "temp_min": 8,
+  "temp_max": 16,
+  "weight": "heavy",
+  "fabric": "tweed",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://www.thescotlandkiltcompany.us/cdn/shop/products/IMG_4993_resize_b5d456ac-7116-4dcb-a683-c88679877be8_x550_crop_center.jpg?v=1679323664"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec576"
+  },
+  "name": "Lightweight Windbreaker",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 18,
+  "temp_max": 25,
+  "weight": "light",
+  "fabric": "nylon",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://m.media-amazon.com/images/I/61un+WVDbQL._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec577"
+  },
+  "name": "Running Vest",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 15,
+  "temp_max": 22,
+  "weight": "light",
+  "fabric": "polyester",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://b3602360.smushcdn.com/3602360/wp-content/uploads/2022/04/MALE-RUNNING-VEST-4.jpg?lossy=2&strip=1&webp=1"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec578"
+  },
+  "name": "Packable Rain Jacket",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 15,
+  "temp_max": 25,
+  "weight": "light",
+  "fabric": "polyester",
+  "is_waterproof": true,
+  "is_windproof": true,
+  "image_url": "https://images-cdn.ubuy.co.in/634f74f3ee9d24645626cf03-33-000ft-packable-rain-jacket-women.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec579"
+  },
+  "name": "Track Jacket",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 15,
+  "temp_max": 25,
+  "weight": "medium",
+  "fabric": "tricot",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://4.imimg.com/data4/HQ/AA/MY-9964194/men-s-casual-track-jacket-500x500.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec57a"
+  },
+  "name": "Softshell Jacket",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 12,
+  "temp_max": 20,
+  "weight": "medium",
+  "fabric": "softshell",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://3.imimg.com/data3/KK/PJ/GLADMIN-78421/soft-shell-jacket-250x250.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec57b"
+  },
+  "name": "Hybrid Jacket",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 10,
+  "temp_max": 18,
+  "weight": "medium",
+  "fabric": "fleece and nylon",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://apparel.chriscraft.com/cdn/shop/files/DSC_1449_1_2000x2000.jpg?v=1731434117"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec57c"
+  },
+  "name": "Insulated Puffer Jacket",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "down",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://m.media-amazon.com/images/I/716YXFb9m+L._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec57d"
+  },
+  "name": "Waterproof Shell Jacket",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "gore-tex",
+  "is_waterproof": true,
+  "is_windproof": true,
+  "image_url": "https://m.media-amazon.com/images/I/61GqAKHrR+L._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec57e"
+  },
+  "name": "3-in-1 Ski Jacket",
+  "style": "sporty",
+  "gender": "unisex",
+  "temp_min": 5,
+  "temp_max": 12,
+  "weight": "heavy",
+  "fabric": "multi-layer",
+  "is_waterproof": true,
+  "is_windproof": true,
+  "image_url": "https://contents.mediadecathlon.com/p2594851/9c5060dbfc33781cc2d6a1d4043c94cf/p2594851.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec57f"
+  },
+  "name": "Satin Bomber Jacket",
+  "style": "party",
+  "gender": "unisex",
+  "temp_min": 18,
+  "temp_max": 25,
+  "weight": "light",
+  "fabric": "satin",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://images-cdn.ubuy.co.in/660d159fd3960c64da026cfa-nwt-koisea-phoenix-sukajan-souvenir.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec580"
+  },
+  "name": "Sequin Blazer",
+  "style": "party",
+  "gender": "female",
+  "temp_min": 16,
+  "temp_max": 24,
+  "weight": "light",
+  "fabric": "sequin",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://media.boohoo.com/i/boohoo/gzz21105_silver_xl_4/female-silver-velvet-sequin-plunge-front-blazer"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec581"
+  },
+  "name": "Stylish Kimono",
+  "style": "party",
+  "gender": "female",
+  "temp_min": 20,
+  "temp_max": 28,
+  "weight": "light",
+  "fabric": "viscose",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://m.media-amazon.com/images/I/71NWUhEFaML.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec582"
+  },
+  "name": "Leather Jacket",
+  "style": "party",
+  "gender": "unisex",
+  "temp_min": 15,
+  "temp_max": 25,
+  "weight": "medium",
+  "fabric": "leather",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://www.noorainternational.biz/cdn/shop/files/Myproject-1_a3017a77-b217-4098-a5b7-9f91a4a5ef2b.jpg?v=1690807040"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec583"
+  },
+  "name": "Velvet Blazer",
+  "style": "party",
+  "gender": "unisex",
+  "temp_min": 12,
+  "temp_max": 20,
+  "weight": "medium",
+  "fabric": "velvet",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://m.media-amazon.com/images/I/61vRauxhMOL._UY1100_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec584"
+  },
+  "name": "Statement Coat",
+  "style": "party",
+  "gender": "female",
+  "temp_min": 10,
+  "temp_max": 18,
+  "weight": "medium",
+  "fabric": "jacquard",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3nmfUL1bHNLkQc5JNkZpjx7cO0PYJUCtEg&s"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec585"
+  },
+  "name": "Faux Fur Coat",
+  "style": "party",
+  "gender": "female",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "faux fur",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://m.media-amazon.com/images/I/71KSzFr1rlL._AC_SY350_QL65_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec586"
+  },
+  "name": "Wool Overcoat",
+  "style": "party",
+  "gender": "male",
+  "temp_min": 5,
+  "temp_max": 15,
+  "weight": "heavy",
+  "fabric": "wool",
+  "is_waterproof": false,
+  "is_windproof": true,
+  "image_url": "https://m.media-amazon.com/images/I/61QkCASwefL._UY1000_.jpg"
+},
+{
+  "_id": {
+    "$oid": "68c4661c81139264f6eec587"
+  },
+  "name": "Brocade Jacket",
+  "style": "party",
+  "gender": "unisex",
+  "temp_min": 8,
+  "temp_max": 16,
+  "weight": "heavy",
+  "fabric": "brocade",
+  "is_waterproof": false,
+  "is_windproof": false,
+  "image_url": "https://5.imimg.com/data5/ECOM/Default/2024/1/374057947/II/LL/UD/18741859/1-63bd9dbd-b7a9-4b02-b2a8-fee77d09bc42-500x500.jpg"
+}]
