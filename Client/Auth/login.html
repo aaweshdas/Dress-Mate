@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather Outfit - Authentication</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="auth-container">
+    <div id="login-form" class="auth-form">
+      <div class="auth-header">
+        <div class="auth-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/>
+            <polyline points="10,17 15,12 10,7"/>
+            <line x1="15" y1="12" x2="3" y2="12"/>
+          </svg>
+        </div>
+        <h1 class="auth-title">Welcome Back!</h1>
+        <p class="auth-subtitle">Sign in to get personalized outfit recommendations based on weather conditions</p>
+      </div>
+
+      <div id="login-error" class="error-message hidden"></div>
+      <div id="login-success" class="success-message hidden"></div>
+
+      <form id="login-form-element">
+        <div class="form-group">
+          <input type="email" id="login-email" class="form-input" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <input type="password" id="login-password" class="form-input" placeholder="Password" required>
+          <button type="button" class="password-toggle" onclick="togglePassword('login-password')">👁️</button>
+        </div>
+        <div class="forgot-password">
+          <a href="#" onclick="showForgotPassword()">Forgot password?</a>
+        </div>
+        <button type="submit" class="auth-button" id="login-button">
+          <div class="button-spinner"></div>
+          <span class="button-text">Sign In</span>
+        </button>
+      </form>
+
+
+      <div class="auth-switch">
+        Don't have an account? <button onclick="switchToRegister()">Register</button>
+      </div>
+    </div>
+
+    <div id="register-form" class="auth-form hidden">
+      <div class="auth-header">
+        <div class="auth-icon">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+            <circle cx="8.5" cy="7" r="4"/>
+            <line x1="20" y1="8" x2="20" y2="14"/>
+            <line x1="23" y1="11" x2="17" y2="11"/>
+          </svg>
+        </div>
+        <h1 class="auth-title">Create an Account</h1>
+        <p class="auth-subtitle">Join us to get personalized outfit suggestions based on real-time weather data</p>
+      </div>
+
+      <div id="register-error" class="error-message hidden"></div>
+      <div id="register-success" class="success-message hidden"></div>
+
+      <form id="register-form-element">
+        <div class="form-group">
+          <input type="email" id="register-email" class="form-input" placeholder="Email Address" required>
+        </div>
+        <div class="form-group">
+          <input type="password" id="register-password" class="form-input" placeholder="Password (min. 6 characters)" required minlength="6">
+          <button type="button" class="password-toggle" onclick="togglePassword('register-password')">👁️</button>
+        </div>
+        <button type="submit" class="auth-button" id="register-button">
+          <div class="button-spinner"></div>
+          <span class="button-text">Create Account</span>
+        </button>
+      </form>
+
+      <div class="auth-switch">
+        Already have an account? <button onclick="switchToLogin()">Sign In</button>
+      </div>
+    </div>
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>
