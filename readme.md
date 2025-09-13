@@ -33,7 +33,7 @@ Follow these steps to set up and run the project locally, based on the following
 ### 1. Clone the Repository
 First, clone the project repository from GitHub to your local machine.
 ```bash
-git clone [https://github.com/aaweshdas/Dress-Mate.git](https://github.com/aaweshdas/Dress-Mate.git)
+git clone https://github.com/aaweshdas/Dress-Mate.git
 ```
 Then, navigate into the newly created project folder:
 ```bash
