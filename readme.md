@@ -68,7 +68,7 @@ cd Dress-Mate
 
     ```
     # Your MongoDB connection string (update 'veda' if needed)
-    MONGO_URI="mongodb+srv://subhankarDas:Subhankar18yrs%23@cluster0.vjgjl.mongodb.net/test"
+    MONGO_URI="mongodb+srv://<your_username>:<your_password>@cluster0.vjgjl.mongodb.net/test"
 
     # A long, random, and secret string for JWT
     JWT_SECRET="your-super-secret-key-change-this"
